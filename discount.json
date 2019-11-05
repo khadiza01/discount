@@ -2,16 +2,16 @@
     {
         "discountCode" : "TL2030",
         "discountPercentage" : "30",
-        "truckTypeText" : '1 to 3 Ton',
-        "validityText" : 'জানুয়ারির ১০',
-        "usedTimeText" : '১'
+        "truckTypeText" : "1 to 3 Ton",
+        "validityText" : "জানুয়ারির ১০",
+        "usedTimeText" : "১"
     },
     {
         "discountCode" : "TL1234",
         "discountPercentage" : "20",
-        "truckTypeText" : '1 to 2 Ton',
-        "validityText" : 'জানুয়ারির ১০',
-        "usedTimeText" : '১'
+        "truckTypeText" : "1 to 2 Ton",
+        "validityText" : "জানুয়ারির ১০",
+        "usedTimeText" : "১"
     }
 ]
 
