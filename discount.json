@@ -1,0 +1,11 @@
+[
+    {
+        "TripID" : "TL2030",
+        "Discount" : "30%"
+    },
+    {
+        "TripID" : "TL1234",
+        "Discount" : "20%"
+    }
+]
+
